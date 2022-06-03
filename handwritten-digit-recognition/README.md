@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition
-###### Amitrajit Bose
+
 ---------------------------
 ![Cover](https://cdn-images-1.medium.com/max/800/1*jlxdirCP5Qre1pcoNC-7JQ.png)
 
